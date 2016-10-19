@@ -1,5 +1,5 @@
 {
-    "name": "corepos/lane-plugin-phone lookup",
+    "name": "corepos/lane-plugin-phone-lookup",
     "description": "Lane plugin to search for member by phone number",
     "type": "corepos-lane-plugin",
     "require": {
